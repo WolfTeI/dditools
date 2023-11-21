@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1072430614059",
+    "project_id": "ddi-tools",
+    "storage_bucket": "ddi-tools.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072430614059:android:69c2c8f74b0a8fd3f38c6e",
+        "android_client_info": {
+          "package_name": "ar.com.wolftei.ddi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072430614059-njf0kkjuci6qd9203pamtpm6v4lt5aae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ar.com.wolftei.ddi",
+            "certificate_hash": "c919499be944010ac41da5a9cba183022513ffdc"
+          }
+        },
+        {
+          "client_id": "1072430614059-qtjipfkb8m4gh9hm5ij3t6ja6ht98mal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEOQW2F4HziYaGZ6FJfNedlvmKvWpLA4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072430614059-qtjipfkb8m4gh9hm5ij3t6ja6ht98mal.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

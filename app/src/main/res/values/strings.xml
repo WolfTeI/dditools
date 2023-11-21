@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DDI</string>
+    <string name="extract">Extractos</string>
+    <string name="whatsapp">Adelanto de WhatsApp</string>
+    <string name="salida">Salida de Jurisdicción</string>
+    <string name="otros">Otros</string>
+</resources>
